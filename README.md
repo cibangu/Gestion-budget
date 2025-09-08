@@ -4,16 +4,16 @@ Une application web simple pour **suivre vos revenus et dépenses**, calculer vo
 
 ---
 
-## ⚙️ Fonctionnalités
+## 🚀 Fonctionnalités
 
-- Ajouter, modifier ou supprimer des transactions (revenus ou d¨¦penses).  
+- Ajouter, modifier ou supprimer des transactions (revenus ou dépenses).  
 - Suivi automatique du **solde global**.  
 - Analyse des dépenses par **catégorie** pour mieux gérer votre budget.  
 - Interface web simple et intuitive.
 
 ---
 
-## •0•0 Technologies utilisées
+## 🛠 Technologies utilisées
 
 - **Python 3**  
 - **Flask** (framework web léger)  
@@ -22,14 +22,14 @@ Une application web simple pour **suivre vos revenus et dépenses**, calculer vo
 
 ---
 
-## 7²3 Installation rapide
+## ⚡ Installation rapide
 
 1. **Cloner le dépôt**
 ```bash
 git clone https://github.com/votre-utilisateur/personal-finance-manager.git
 cd personal-finance-manager
 
-2. Cr¨¦er un environnement virtuel et installer Flask
+2. Créer un environnement virtuel et installer Flask
 
 
 
@@ -44,15 +44,14 @@ pip install Flask
 
 python app.py
 
-Ouvrez votre navigateur sur http://127.0.0.1:5000 et commencez ¨¤ g¨¦rer vos finances !
+Ouvrez votre navigateur sur http://127.0.0.1:5000 et commencez à gérer vos finances !
 
-•0Î3 Contribution
+🤝 Contribution
 
-Am¨¦liorations et nouvelles fonctionnalit¨¦s bienvenues ! Faites un pull request.
+Améliorations et nouvelles fonctionnalités bienvenues ! Faites un pull request.
 
-”9Þ8 Licence
+📖 Licence
 
 MIT License
-
 
 
