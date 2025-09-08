@@ -1,37 +1,33 @@
-Personal Finance Manager ðŸ’°
+# Personal Finance Manager ”9Û0
 
-Une application web simple pour suivre vos revenus et dÃ©penses, calculer votre solde et visualiser la rÃ©partition de vos finances par catÃ©gorie.
+Une application web simple pour **suivre vos revenus et d¨¦penses**, calculer votre solde et visualiser la r¨¦partition de vos finances par cat¨¦gorie.
 
-ðŸš€ FonctionnalitÃ©s
+---
 
-Ajouter, modifier ou supprimer des transactions (revenus ou dÃ©penses).
+## •0‹4 Fonctionnalit¨¦s
 
-Suivi automatique du solde global.
+- Ajouter, modifier ou supprimer des transactions (revenus ou d¨¦penses).  
+- Suivi automatique du **solde global**.  
+- Analyse des d¨¦penses par **cat¨¦gorie** pour mieux g¨¦rer votre budget.  
+- Interface web simple et intuitive.
 
-Analyse des dÃ©penses par catÃ©gorie pour mieux gÃ©rer votre budget.
+---
 
-Interface web simple et intuitive.
+## •0•0 Technologies utilis¨¦es
 
+- **Python 3**  
+- **Flask** (framework web l¨¦ger)  
+- **SQLite** (base de donn¨¦es int¨¦gr¨¦e)  
+- **HTML & CSS** (interface utilisateur)
 
-ðŸ›  Technologies
+---
 
-Python 3
+## 7²3 Installation rapide
 
-Flask (framework web lÃ©ger)
-
-SQLite (base de donnÃ©es intÃ©grÃ©e)
-
-HTML & CSS (interface utilisateur)
-
-âš¡ Installation rapide
-
-1. Cloner le dÃ©pÃ´t
-
-
-
+1. **Cloner le d¨¦p0‹0t**
+```bash
 git clone https://github.com/votre-utilisateur/personal-finance-manager.git
 cd personal-finance-manager
-
 2. CrÃ©er un environnement virtuel et installer Flask
 
 
@@ -47,11 +43,11 @@ pip install Flask
 
 python app.py
 
-Ouvrez votre navigateur sur http://127.0.0.1:5000 et commencez Ã  gÃ©rer vos financesâ€¯!
+Ouvrez votre navigateur sur http://127.0.0.1:5000 et commencez Ã  gÃ©rer vos financesâ€„1¤7!
 
 ðŸ¤ Contribution
 
-AmÃ©liorations et nouvelles fonctionnalitÃ©s bienvenuesâ€¯! Faites un pull request.
+AmÃ©liorations et nouvelles fonctionnalitÃ©s bienvenuesâ€„1¤7! Faites un pull request.
 
 ðŸ“„ Licence
 
