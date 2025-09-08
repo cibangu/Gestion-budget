@@ -1,10 +1,10 @@
-# Personal Finance Manager 
+# Personal Finance Manager 💰
 
 Une application web simple pour **suivre vos revenus et dépenses**, calculer votre solde et visualiser la répartition de vos finances par catégorie.
 
 ---
 
-## •0‹4 Fonctionnalités
+## ⚙️ Fonctionnalités
 
 - Ajouter, modifier ou supprimer des transactions (revenus ou d¨¦penses).  
 - Suivi automatique du **solde global**.  
