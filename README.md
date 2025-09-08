@@ -28,7 +28,8 @@ Une application web simple pour **suivre vos revenus et dépenses**, calculer vo
 ```bash
 git clone https://github.com/votre-utilisateur/personal-finance-manager.git
 cd personal-finance-manager
-2. Cr茅er un environnement virtuel et installer Flask
+
+2. Créer un environnement virtuel et installer Flask
 
 
 
@@ -37,19 +38,19 @@ source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate     # Windows
 pip install Flask
 
-3. Lancer l鈥檃pplication
+3. Lancer l'application
 
 
 
 python app.py
 
-Ouvrez votre navigateur sur http://127.0.0.1:5000 et commencez 脿 g茅rer vos finances鈥�!
+Ouvrez votre navigateur sur http://127.0.0.1:5000 et commencez à gérer vos finances !
 
-馃 Contribution
+🤝 Contribution
 
-Am茅liorations et nouvelles fonctionnalit茅s bienvenues鈥�! Faites un pull request.
+Améliorations et nouvelles fonctionnalités bienvenues ! Faites un pull request.
 
-馃搫 Licence
+📖 Licence
 
 MIT License
 
